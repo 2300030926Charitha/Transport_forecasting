@@ -1,0 +1,12 @@
+Metric,Value
+Original Rows,1000
+Valid Rows,1000
+Removed Rows,0
+Missing Values Initially,0
+Duplicate Rows Initially,0
+Invalid Dates,0
+Invalid Capacity,0
+Invalid Passengers,0
+Passengers Over Capacity,0
+Unique Routes,15
+Unique Bus Types,6

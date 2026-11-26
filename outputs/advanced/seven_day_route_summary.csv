@@ -1,0 +1,19 @@
+route,bus_type,average_predicted_demand,total_predicted_demand,total_estimated_bus_days
+Anantapur-Bangalore,Ordinary,38.620000000000005,270.34000000000003,7
+Eluru-Hyderabad,Semi-Sleeper,45.31,317.17,7
+Guntur-Hyderabad,Sleeper,31.65,221.54999999999998,7
+Guntur-Hyderabad,Super Luxury,37.36,261.52,7
+Hyderabad-Tirupati,Express,44.56142857142857,311.93,7
+Hyderabad-Vijayawada,Volvo AC,36.682857142857145,256.78000000000003,7
+Hyderabad-Visakhapatnam,Ordinary,41.89714285714285,293.28,7
+Kadapa-Hyderabad,Express,43.31428571428571,303.2,7
+Kadapa-Hyderabad,Ordinary,40.67,284.69,7
+Kadapa-Hyderabad,Super Luxury,36.47714285714286,255.34,7
+Kakinada-Vijayawada,Ordinary,43.357142857142854,303.5,7
+Nellore-Chennai,Express,38.44857142857143,269.14,7
+Nellore-Chennai,Ordinary,43.19714285714286,302.38,7
+Ongole-Hyderabad,Sleeper,31.55857142857143,220.91,7
+Rajahmundry-Hyderabad,Sleeper,31.529999999999998,220.70999999999998,7
+Vijayawada-Tirupati,Volvo AC,38.55714285714286,269.9,7
+Vijayawada-Visakhapatnam,Ordinary,37.25142857142857,260.76,7
+Vijayawada-Visakhapatnam,Volvo AC,36.64714285714285,256.53,7

@@ -1,0 +1,533 @@
+date,forecast_day,route,bus_type,predicted_passengers,average_bus_capacity,estimated_buses_required
+2024-12-31,1,Anantapur-Bangalore,Ordinary,37.92,59.0,1
+2024-12-31,1,Anantapur-Bangalore,Sleeper,30.8,39.14,1
+2024-12-31,1,Chittoor-Bangalore,Express,31.54,59.36,1
+2024-12-31,1,Chittoor-Bangalore,Semi-Sleeper,35.66,59.0,1
+2024-12-31,1,Chittoor-Bangalore,Sleeper,19.89,37.82,1
+2024-12-31,1,Chittoor-Bangalore,Super Luxury,35.7,49.8,1
+2024-12-31,1,Eluru-Hyderabad,Ordinary,39.46,61.0,1
+2024-12-31,1,Eluru-Hyderabad,Semi-Sleeper,43.76,59.67,1
+2024-12-31,1,Eluru-Hyderabad,Sleeper,28.82,40.0,1
+2024-12-31,1,Eluru-Hyderabad,Super Luxury,36.15,48.67,1
+2024-12-31,1,Eluru-Hyderabad,Volvo AC,36.52,53.44,1
+2024-12-31,1,Guntur-Hyderabad,Express,39.62,58.6,1
+2024-12-31,1,Guntur-Hyderabad,Ordinary,39.51,57.22,1
+2024-12-31,1,Guntur-Hyderabad,Semi-Sleeper,37.98,59.0,1
+2024-12-31,1,Guntur-Hyderabad,Sleeper,31.11,40.0,1
+2024-12-31,1,Guntur-Hyderabad,Super Luxury,36.64,48.5,1
+2024-12-31,1,Guntur-Hyderabad,Volvo AC,37.13,53.0,1
+2024-12-31,1,Hyderabad-Tirupati,Express,44.39,58.75,1
+2024-12-31,1,Hyderabad-Tirupati,Ordinary,39.2,58.11,1
+2024-12-31,1,Hyderabad-Tirupati,Semi-Sleeper,39.81,60.71,1
+2024-12-31,1,Hyderabad-Tirupati,Sleeper,29.56,40.0,1
+2024-12-31,1,Hyderabad-Tirupati,Super Luxury,37.81,48.0,1
+2024-12-31,1,Hyderabad-Tirupati,Volvo AC,39.61,53.8,1
+2024-12-31,1,Hyderabad-Vijayawada,Express,39.31,59.8,1
+2024-12-31,1,Hyderabad-Vijayawada,Ordinary,36.41,59.67,1
+2024-12-31,1,Hyderabad-Vijayawada,Semi-Sleeper,43.76,59.62,1
+2024-12-31,1,Hyderabad-Vijayawada,Sleeper,30.8,40.92,1
+2024-12-31,1,Hyderabad-Vijayawada,Super Luxury,35.34,49.73,1
+2024-12-31,1,Hyderabad-Vijayawada,Volvo AC,37.9,51.57,1
+2024-12-31,1,Hyderabad-Visakhapatnam,Express,40.22,58.0,1
+2024-12-31,1,Hyderabad-Visakhapatnam,Ordinary,41.28,58.58,1
+2024-12-31,1,Hyderabad-Visakhapatnam,Semi-Sleeper,40.83,58.0,1
+2024-12-31,1,Hyderabad-Visakhapatnam,Sleeper,54.77,40.4,2
+2024-12-31,1,Kadapa-Hyderabad,Express,43.55,58.29,1
+2024-12-31,1,Kadapa-Hyderabad,Ordinary,39.46,59.89,1
+2024-12-31,1,Kadapa-Hyderabad,Semi-Sleeper,40.08,59.89,1
+2024-12-31,1,Kadapa-Hyderabad,Sleeper,28.82,40.33,1
+2024-12-31,1,Kadapa-Hyderabad,Super Luxury,36.11,49.57,1
+2024-12-31,1,Kadapa-Hyderabad,Volvo AC,37.38,52.27,1
+2024-12-31,1,Kakinada-Vijayawada,Express,36.57,57.55,1
+2024-12-31,1,Kakinada-Vijayawada,Ordinary,43.0,59.0,1
+2024-12-31,1,Kakinada-Vijayawada,Sleeper,52.46,40.4,2
+2024-12-31,1,Kakinada-Vijayawada,Super Luxury,36.57,49.0,1
+2024-12-31,1,Kakinada-Vijayawada,Volvo AC,38.71,53.89,1
+2024-12-31,1,Kurnool-Hyderabad,Express,43.0,59.31,1
+2024-12-31,1,Kurnool-Hyderabad,Ordinary,39.31,60.6,1
+2024-12-31,1,Kurnool-Hyderabad,Semi-Sleeper,38.57,59.33,1
+2024-12-31,1,Kurnool-Hyderabad,Sleeper,30.8,41.82,1
+2024-12-31,1,Kurnool-Hyderabad,Super Luxury,35.49,49.33,1
+2024-12-31,1,Kurnool-Hyderabad,Volvo AC,36.52,53.0,1
+2024-12-31,1,Nellore-Chennai,Express,36.41,59.71,1
+2024-12-31,1,Nellore-Chennai,Ordinary,42.22,58.56,1
+2024-12-31,1,Nellore-Chennai,Semi-Sleeper,37.18,60.0,1
+2024-12-31,1,Nellore-Chennai,Sleeper,22.83,39.64,1
+2024-12-31,1,Nellore-Chennai,Super Luxury,36.57,49.0,1
+2024-12-31,1,Ongole-Hyderabad,Express,36.41,58.6,1
+2024-12-31,1,Ongole-Hyderabad,Ordinary,39.31,60.0,1
+2024-12-31,1,Ongole-Hyderabad,Semi-Sleeper,43.83,59.67,1
+2024-12-31,1,Ongole-Hyderabad,Sleeper,30.8,42.0,1
+2024-12-31,1,Ongole-Hyderabad,Super Luxury,36.57,49.33,1
+2024-12-31,1,Ongole-Hyderabad,Volvo AC,36.52,53.0,1
+2024-12-31,1,Rajahmundry-Hyderabad,Express,36.41,58.38,1
+2024-12-31,1,Rajahmundry-Hyderabad,Ordinary,39.31,58.0,1
+2024-12-31,1,Rajahmundry-Hyderabad,Semi-Sleeper,41.32,59.36,1
+2024-12-31,1,Rajahmundry-Hyderabad,Sleeper,30.8,38.67,1
+2024-12-31,1,Rajahmundry-Hyderabad,Volvo AC,36.67,52.2,1
+2024-12-31,1,Vijayawada-Tirupati,Express,39.31,59.0,1
+2024-12-31,1,Vijayawada-Tirupati,Semi-Sleeper,40.15,60.6,1
+2024-12-31,1,Vijayawada-Tirupati,Sleeper,21.99,40.8,1
+2024-12-31,1,Vijayawada-Tirupati,Volvo AC,38.78,51.86,1
+2024-12-31,1,Vijayawada-Visakhapatnam,Express,36.46,60.0,1
+2024-12-31,1,Vijayawada-Visakhapatnam,Ordinary,37.97,58.56,1
+2024-12-31,1,Vijayawada-Visakhapatnam,Semi-Sleeper,36.67,60.82,1
+2024-12-31,1,Vijayawada-Visakhapatnam,Sleeper,21.92,38.67,1
+2024-12-31,1,Vijayawada-Visakhapatnam,Super Luxury,36.15,50.78,1
+2024-12-31,1,Vijayawada-Visakhapatnam,Volvo AC,36.87,53.86,1
+2025-01-01,2,Anantapur-Bangalore,Ordinary,38.24,59.0,1
+2025-01-01,2,Anantapur-Bangalore,Sleeper,31.11,39.14,1
+2025-01-01,2,Chittoor-Bangalore,Express,31.85,59.36,1
+2025-01-01,2,Chittoor-Bangalore,Semi-Sleeper,35.98,59.0,1
+2025-01-01,2,Chittoor-Bangalore,Sleeper,18.0,37.82,1
+2025-01-01,2,Chittoor-Bangalore,Super Luxury,36.02,49.8,1
+2025-01-01,2,Eluru-Hyderabad,Ordinary,40.12,61.0,1
+2025-01-01,2,Eluru-Hyderabad,Semi-Sleeper,44.86,59.67,1
+2025-01-01,2,Eluru-Hyderabad,Sleeper,29.14,40.0,1
+2025-01-01,2,Eluru-Hyderabad,Super Luxury,36.47,48.67,1
+2025-01-01,2,Eluru-Hyderabad,Volvo AC,36.83,53.44,1
+2025-01-01,2,Guntur-Hyderabad,Express,40.28,58.6,1
+2025-01-01,2,Guntur-Hyderabad,Ordinary,40.16,57.22,1
+2025-01-01,2,Guntur-Hyderabad,Semi-Sleeper,37.81,59.0,1
+2025-01-01,2,Guntur-Hyderabad,Sleeper,31.13,40.0,1
+2025-01-01,2,Guntur-Hyderabad,Super Luxury,36.95,48.5,1
+2025-01-01,2,Guntur-Hyderabad,Volvo AC,37.45,53.0,1
+2025-01-01,2,Hyderabad-Tirupati,Express,45.39,58.75,1
+2025-01-01,2,Hyderabad-Tirupati,Ordinary,39.85,58.11,1
+2025-01-01,2,Hyderabad-Tirupati,Semi-Sleeper,40.47,60.71,1
+2025-01-01,2,Hyderabad-Tirupati,Sleeper,29.12,40.0,1
+2025-01-01,2,Hyderabad-Tirupati,Super Luxury,38.13,48.0,1
+2025-01-01,2,Hyderabad-Tirupati,Volvo AC,40.26,53.8,1
+2025-01-01,2,Hyderabad-Vijayawada,Express,39.97,59.8,1
+2025-01-01,2,Hyderabad-Vijayawada,Ordinary,36.73,59.67,1
+2025-01-01,2,Hyderabad-Vijayawada,Semi-Sleeper,44.86,59.62,1
+2025-01-01,2,Hyderabad-Vijayawada,Sleeper,31.11,40.92,1
+2025-01-01,2,Hyderabad-Vijayawada,Super Luxury,35.66,49.73,1
+2025-01-01,2,Hyderabad-Vijayawada,Volvo AC,36.76,51.57,1
+2025-01-01,2,Hyderabad-Visakhapatnam,Express,40.87,58.0,1
+2025-01-01,2,Hyderabad-Visakhapatnam,Ordinary,42.38,58.58,1
+2025-01-01,2,Hyderabad-Visakhapatnam,Semi-Sleeper,41.49,58.0,1
+2025-01-01,2,Hyderabad-Visakhapatnam,Sleeper,53.45,40.4,2
+2025-01-01,2,Kadapa-Hyderabad,Express,42.5,58.29,1
+2025-01-01,2,Kadapa-Hyderabad,Ordinary,40.12,59.89,1
+2025-01-01,2,Kadapa-Hyderabad,Semi-Sleeper,40.73,59.89,1
+2025-01-01,2,Kadapa-Hyderabad,Sleeper,29.14,40.33,1
+2025-01-01,2,Kadapa-Hyderabad,Super Luxury,36.42,49.57,1
+2025-01-01,2,Kadapa-Hyderabad,Volvo AC,38.56,52.27,1
+2025-01-01,2,Kakinada-Vijayawada,Express,36.88,57.55,1
+2025-01-01,2,Kakinada-Vijayawada,Ordinary,44.09,59.0,1
+2025-01-01,2,Kakinada-Vijayawada,Sleeper,51.14,40.4,2
+2025-01-01,2,Kakinada-Vijayawada,Super Luxury,36.88,49.0,1
+2025-01-01,2,Kakinada-Vijayawada,Volvo AC,39.02,53.89,1
+2025-01-01,2,Kurnool-Hyderabad,Express,44.09,59.31,1
+2025-01-01,2,Kurnool-Hyderabad,Ordinary,39.97,60.6,1
+2025-01-01,2,Kurnool-Hyderabad,Semi-Sleeper,37.98,59.33,1
+2025-01-01,2,Kurnool-Hyderabad,Sleeper,31.11,41.82,1
+2025-01-01,2,Kurnool-Hyderabad,Super Luxury,35.81,49.33,1
+2025-01-01,2,Kurnool-Hyderabad,Volvo AC,36.83,53.0,1
+2025-01-01,2,Nellore-Chennai,Express,36.73,59.71,1
+2025-01-01,2,Nellore-Chennai,Ordinary,44.31,58.56,1
+2025-01-01,2,Nellore-Chennai,Semi-Sleeper,37.5,60.0,1
+2025-01-01,2,Nellore-Chennai,Sleeper,22.15,39.64,1
+2025-01-01,2,Nellore-Chennai,Super Luxury,36.88,49.0,1
+2025-01-01,2,Ongole-Hyderabad,Express,36.73,58.6,1
+2025-01-01,2,Ongole-Hyderabad,Ordinary,39.97,60.0,1
+2025-01-01,2,Ongole-Hyderabad,Semi-Sleeper,44.93,59.67,1
+2025-01-01,2,Ongole-Hyderabad,Sleeper,31.11,42.0,1
+2025-01-01,2,Ongole-Hyderabad,Super Luxury,36.88,49.33,1
+2025-01-01,2,Ongole-Hyderabad,Volvo AC,36.83,53.0,1
+2025-01-01,2,Rajahmundry-Hyderabad,Express,36.73,58.38,1
+2025-01-01,2,Rajahmundry-Hyderabad,Ordinary,39.97,58.0,1
+2025-01-01,2,Rajahmundry-Hyderabad,Semi-Sleeper,42.12,59.36,1
+2025-01-01,2,Rajahmundry-Hyderabad,Sleeper,31.11,38.67,1
+2025-01-01,2,Rajahmundry-Hyderabad,Volvo AC,36.98,52.2,1
+2025-01-01,2,Vijayawada-Tirupati,Express,39.97,59.0,1
+2025-01-01,2,Vijayawada-Tirupati,Semi-Sleeper,40.8,60.6,1
+2025-01-01,2,Vijayawada-Tirupati,Sleeper,22.3,40.8,1
+2025-01-01,2,Vijayawada-Tirupati,Volvo AC,39.23,51.86,1
+2025-01-01,2,Vijayawada-Visakhapatnam,Express,36.77,60.0,1
+2025-01-01,2,Vijayawada-Visakhapatnam,Ordinary,38.28,58.56,1
+2025-01-01,2,Vijayawada-Visakhapatnam,Semi-Sleeper,36.98,60.82,1
+2025-01-01,2,Vijayawada-Visakhapatnam,Sleeper,22.39,38.67,1
+2025-01-01,2,Vijayawada-Visakhapatnam,Super Luxury,36.47,50.78,1
+2025-01-01,2,Vijayawada-Visakhapatnam,Volvo AC,37.18,53.86,1
+2025-01-02,3,Anantapur-Bangalore,Ordinary,37.6,59.0,1
+2025-01-02,3,Anantapur-Bangalore,Sleeper,30.18,39.14,1
+2025-01-02,3,Chittoor-Bangalore,Express,31.22,59.36,1
+2025-01-02,3,Chittoor-Bangalore,Semi-Sleeper,35.34,59.0,1
+2025-01-02,3,Chittoor-Bangalore,Sleeper,17.53,37.82,1
+2025-01-02,3,Chittoor-Bangalore,Super Luxury,35.38,49.8,1
+2025-01-02,3,Eluru-Hyderabad,Ordinary,39.48,61.0,1
+2025-01-02,3,Eluru-Hyderabad,Semi-Sleeper,44.22,59.67,1
+2025-01-02,3,Eluru-Hyderabad,Sleeper,28.5,40.0,1
+2025-01-02,3,Eluru-Hyderabad,Super Luxury,35.83,48.67,1
+2025-01-02,3,Eluru-Hyderabad,Volvo AC,36.2,53.44,1
+2025-01-02,3,Guntur-Hyderabad,Express,39.64,58.6,1
+2025-01-02,3,Guntur-Hyderabad,Ordinary,39.53,57.22,1
+2025-01-02,3,Guntur-Hyderabad,Semi-Sleeper,37.17,59.0,1
+2025-01-02,3,Guntur-Hyderabad,Sleeper,30.49,40.0,1
+2025-01-02,3,Guntur-Hyderabad,Super Luxury,36.32,48.5,1
+2025-01-02,3,Guntur-Hyderabad,Volvo AC,36.81,53.0,1
+2025-01-02,3,Hyderabad-Tirupati,Express,44.76,58.75,1
+2025-01-02,3,Hyderabad-Tirupati,Ordinary,39.22,58.11,1
+2025-01-02,3,Hyderabad-Tirupati,Semi-Sleeper,39.84,60.71,1
+2025-01-02,3,Hyderabad-Tirupati,Sleeper,29.24,40.0,1
+2025-01-02,3,Hyderabad-Tirupati,Super Luxury,37.49,48.0,1
+2025-01-02,3,Hyderabad-Tirupati,Volvo AC,39.63,53.8,1
+2025-01-02,3,Hyderabad-Vijayawada,Express,39.33,59.8,1
+2025-01-02,3,Hyderabad-Vijayawada,Ordinary,36.09,59.67,1
+2025-01-02,3,Hyderabad-Vijayawada,Semi-Sleeper,44.22,59.62,1
+2025-01-02,3,Hyderabad-Vijayawada,Sleeper,30.18,40.92,1
+2025-01-02,3,Hyderabad-Vijayawada,Super Luxury,35.02,49.73,1
+2025-01-02,3,Hyderabad-Vijayawada,Volvo AC,36.68,51.57,1
+2025-01-02,3,Hyderabad-Visakhapatnam,Express,40.24,58.0,1
+2025-01-02,3,Hyderabad-Visakhapatnam,Ordinary,41.75,58.58,1
+2025-01-02,3,Hyderabad-Visakhapatnam,Semi-Sleeper,40.86,58.0,1
+2025-01-02,3,Hyderabad-Visakhapatnam,Sleeper,53.45,40.4,2
+2025-01-02,3,Kadapa-Hyderabad,Express,42.5,58.29,1
+2025-01-02,3,Kadapa-Hyderabad,Ordinary,39.48,59.89,1
+2025-01-02,3,Kadapa-Hyderabad,Semi-Sleeper,40.1,59.89,1
+2025-01-02,3,Kadapa-Hyderabad,Sleeper,28.5,40.33,1
+2025-01-02,3,Kadapa-Hyderabad,Super Luxury,35.79,49.57,1
+2025-01-02,3,Kadapa-Hyderabad,Volvo AC,37.92,52.27,1
+2025-01-02,3,Kakinada-Vijayawada,Express,36.25,57.55,1
+2025-01-02,3,Kakinada-Vijayawada,Ordinary,43.45,59.0,1
+2025-01-02,3,Kakinada-Vijayawada,Sleeper,51.14,40.4,2
+2025-01-02,3,Kakinada-Vijayawada,Super Luxury,36.25,49.0,1
+2025-01-02,3,Kakinada-Vijayawada,Volvo AC,38.39,53.89,1
+2025-01-02,3,Kurnool-Hyderabad,Express,43.45,59.31,1
+2025-01-02,3,Kurnool-Hyderabad,Ordinary,39.33,60.6,1
+2025-01-02,3,Kurnool-Hyderabad,Semi-Sleeper,38.15,59.33,1
+2025-01-02,3,Kurnool-Hyderabad,Sleeper,30.18,41.82,1
+2025-01-02,3,Kurnool-Hyderabad,Super Luxury,35.17,49.33,1
+2025-01-02,3,Kurnool-Hyderabad,Volvo AC,36.2,53.0,1
+2025-01-02,3,Nellore-Chennai,Express,36.09,59.71,1
+2025-01-02,3,Nellore-Chennai,Ordinary,43.68,58.56,1
+2025-01-02,3,Nellore-Chennai,Semi-Sleeper,36.3,60.0,1
+2025-01-02,3,Nellore-Chennai,Sleeper,19.16,39.64,1
+2025-01-02,3,Nellore-Chennai,Super Luxury,36.25,49.0,1
+2025-01-02,3,Ongole-Hyderabad,Express,36.09,58.6,1
+2025-01-02,3,Ongole-Hyderabad,Ordinary,39.33,60.0,1
+2025-01-02,3,Ongole-Hyderabad,Semi-Sleeper,44.29,59.67,1
+2025-01-02,3,Ongole-Hyderabad,Sleeper,30.18,42.0,1
+2025-01-02,3,Ongole-Hyderabad,Super Luxury,36.25,49.33,1
+2025-01-02,3,Ongole-Hyderabad,Volvo AC,36.2,53.0,1
+2025-01-02,3,Rajahmundry-Hyderabad,Express,36.09,58.38,1
+2025-01-02,3,Rajahmundry-Hyderabad,Ordinary,39.33,58.0,1
+2025-01-02,3,Rajahmundry-Hyderabad,Semi-Sleeper,41.48,59.36,1
+2025-01-02,3,Rajahmundry-Hyderabad,Sleeper,30.18,38.67,1
+2025-01-02,3,Rajahmundry-Hyderabad,Volvo AC,36.35,52.2,1
+2025-01-02,3,Vijayawada-Tirupati,Express,39.33,59.0,1
+2025-01-02,3,Vijayawada-Tirupati,Semi-Sleeper,40.17,60.6,1
+2025-01-02,3,Vijayawada-Tirupati,Sleeper,19.31,40.8,1
+2025-01-02,3,Vijayawada-Tirupati,Volvo AC,38.6,51.86,1
+2025-01-02,3,Vijayawada-Visakhapatnam,Express,36.14,60.0,1
+2025-01-02,3,Vijayawada-Visakhapatnam,Ordinary,37.65,58.56,1
+2025-01-02,3,Vijayawada-Visakhapatnam,Semi-Sleeper,36.34,60.82,1
+2025-01-02,3,Vijayawada-Visakhapatnam,Sleeper,19.39,38.67,1
+2025-01-02,3,Vijayawada-Visakhapatnam,Super Luxury,35.83,50.78,1
+2025-01-02,3,Vijayawada-Visakhapatnam,Volvo AC,36.55,53.86,1
+2025-01-03,4,Anantapur-Bangalore,Ordinary,37.6,59.0,1
+2025-01-03,4,Anantapur-Bangalore,Sleeper,30.48,39.14,1
+2025-01-03,4,Chittoor-Bangalore,Express,31.22,59.36,1
+2025-01-03,4,Chittoor-Bangalore,Semi-Sleeper,35.34,59.0,1
+2025-01-03,4,Chittoor-Bangalore,Sleeper,17.53,37.82,1
+2025-01-03,4,Chittoor-Bangalore,Super Luxury,35.38,49.8,1
+2025-01-03,4,Eluru-Hyderabad,Ordinary,39.48,61.0,1
+2025-01-03,4,Eluru-Hyderabad,Semi-Sleeper,44.22,59.67,1
+2025-01-03,4,Eluru-Hyderabad,Sleeper,28.5,40.0,1
+2025-01-03,4,Eluru-Hyderabad,Super Luxury,35.83,48.67,1
+2025-01-03,4,Eluru-Hyderabad,Volvo AC,36.2,53.44,1
+2025-01-03,4,Guntur-Hyderabad,Express,39.64,58.6,1
+2025-01-03,4,Guntur-Hyderabad,Ordinary,39.53,57.22,1
+2025-01-03,4,Guntur-Hyderabad,Semi-Sleeper,37.17,59.0,1
+2025-01-03,4,Guntur-Hyderabad,Sleeper,30.79,40.0,1
+2025-01-03,4,Guntur-Hyderabad,Super Luxury,36.32,48.5,1
+2025-01-03,4,Guntur-Hyderabad,Volvo AC,36.81,53.0,1
+2025-01-03,4,Hyderabad-Tirupati,Express,44.34,58.75,1
+2025-01-03,4,Hyderabad-Tirupati,Ordinary,39.22,58.11,1
+2025-01-03,4,Hyderabad-Tirupati,Semi-Sleeper,39.84,60.71,1
+2025-01-03,4,Hyderabad-Tirupati,Sleeper,29.24,40.0,1
+2025-01-03,4,Hyderabad-Tirupati,Super Luxury,37.49,48.0,1
+2025-01-03,4,Hyderabad-Tirupati,Volvo AC,39.63,53.8,1
+2025-01-03,4,Hyderabad-Vijayawada,Express,39.33,59.8,1
+2025-01-03,4,Hyderabad-Vijayawada,Ordinary,36.09,59.67,1
+2025-01-03,4,Hyderabad-Vijayawada,Semi-Sleeper,44.22,59.62,1
+2025-01-03,4,Hyderabad-Vijayawada,Sleeper,30.48,40.92,1
+2025-01-03,4,Hyderabad-Vijayawada,Super Luxury,35.02,49.73,1
+2025-01-03,4,Hyderabad-Vijayawada,Volvo AC,36.2,51.57,1
+2025-01-03,4,Hyderabad-Visakhapatnam,Express,40.24,58.0,1
+2025-01-03,4,Hyderabad-Visakhapatnam,Ordinary,41.75,58.58,1
+2025-01-03,4,Hyderabad-Visakhapatnam,Semi-Sleeper,40.86,58.0,1
+2025-01-03,4,Hyderabad-Visakhapatnam,Sleeper,53.45,40.4,2
+2025-01-03,4,Kadapa-Hyderabad,Express,43.36,58.29,1
+2025-01-03,4,Kadapa-Hyderabad,Ordinary,39.48,59.89,1
+2025-01-03,4,Kadapa-Hyderabad,Semi-Sleeper,40.1,59.89,1
+2025-01-03,4,Kadapa-Hyderabad,Sleeper,28.5,40.33,1
+2025-01-03,4,Kadapa-Hyderabad,Super Luxury,35.79,49.57,1
+2025-01-03,4,Kadapa-Hyderabad,Volvo AC,37.68,52.27,1
+2025-01-03,4,Kakinada-Vijayawada,Express,36.25,57.55,1
+2025-01-03,4,Kakinada-Vijayawada,Ordinary,43.45,59.0,1
+2025-01-03,4,Kakinada-Vijayawada,Sleeper,51.14,40.4,2
+2025-01-03,4,Kakinada-Vijayawada,Super Luxury,36.25,49.0,1
+2025-01-03,4,Kakinada-Vijayawada,Volvo AC,38.39,53.89,1
+2025-01-03,4,Kurnool-Hyderabad,Express,43.45,59.31,1
+2025-01-03,4,Kurnool-Hyderabad,Ordinary,39.33,60.6,1
+2025-01-03,4,Kurnool-Hyderabad,Semi-Sleeper,38.15,59.33,1
+2025-01-03,4,Kurnool-Hyderabad,Sleeper,30.48,41.82,1
+2025-01-03,4,Kurnool-Hyderabad,Super Luxury,35.17,49.33,1
+2025-01-03,4,Kurnool-Hyderabad,Volvo AC,36.2,53.0,1
+2025-01-03,4,Nellore-Chennai,Express,36.09,59.71,1
+2025-01-03,4,Nellore-Chennai,Ordinary,43.68,58.56,1
+2025-01-03,4,Nellore-Chennai,Semi-Sleeper,36.3,60.0,1
+2025-01-03,4,Nellore-Chennai,Sleeper,21.52,39.64,1
+2025-01-03,4,Nellore-Chennai,Super Luxury,36.25,49.0,1
+2025-01-03,4,Ongole-Hyderabad,Express,36.09,58.6,1
+2025-01-03,4,Ongole-Hyderabad,Ordinary,39.33,60.0,1
+2025-01-03,4,Ongole-Hyderabad,Semi-Sleeper,44.29,59.67,1
+2025-01-03,4,Ongole-Hyderabad,Sleeper,30.48,42.0,1
+2025-01-03,4,Ongole-Hyderabad,Super Luxury,36.25,49.33,1
+2025-01-03,4,Ongole-Hyderabad,Volvo AC,36.2,53.0,1
+2025-01-03,4,Rajahmundry-Hyderabad,Express,36.09,58.38,1
+2025-01-03,4,Rajahmundry-Hyderabad,Ordinary,39.33,58.0,1
+2025-01-03,4,Rajahmundry-Hyderabad,Semi-Sleeper,41.34,59.36,1
+2025-01-03,4,Rajahmundry-Hyderabad,Sleeper,30.48,38.67,1
+2025-01-03,4,Rajahmundry-Hyderabad,Volvo AC,36.35,52.2,1
+2025-01-03,4,Vijayawada-Tirupati,Express,39.33,59.0,1
+2025-01-03,4,Vijayawada-Tirupati,Semi-Sleeper,40.17,60.6,1
+2025-01-03,4,Vijayawada-Tirupati,Sleeper,19.31,40.8,1
+2025-01-03,4,Vijayawada-Tirupati,Volvo AC,38.6,51.86,1
+2025-01-03,4,Vijayawada-Visakhapatnam,Express,36.14,60.0,1
+2025-01-03,4,Vijayawada-Visakhapatnam,Ordinary,37.65,58.56,1
+2025-01-03,4,Vijayawada-Visakhapatnam,Semi-Sleeper,36.34,60.82,1
+2025-01-03,4,Vijayawada-Visakhapatnam,Sleeper,19.39,38.67,1
+2025-01-03,4,Vijayawada-Visakhapatnam,Super Luxury,35.83,50.78,1
+2025-01-03,4,Vijayawada-Visakhapatnam,Volvo AC,36.55,53.86,1
+2025-01-04,5,Anantapur-Bangalore,Ordinary,37.93,59.0,1
+2025-01-04,5,Anantapur-Bangalore,Sleeper,30.8,39.14,1
+2025-01-04,5,Chittoor-Bangalore,Express,31.54,59.36,1
+2025-01-04,5,Chittoor-Bangalore,Semi-Sleeper,35.67,59.0,1
+2025-01-04,5,Chittoor-Bangalore,Sleeper,17.85,37.82,1
+2025-01-04,5,Chittoor-Bangalore,Super Luxury,35.71,49.8,1
+2025-01-04,5,Eluru-Hyderabad,Ordinary,39.81,61.0,1
+2025-01-04,5,Eluru-Hyderabad,Semi-Sleeper,44.55,59.67,1
+2025-01-04,5,Eluru-Hyderabad,Sleeper,28.83,40.0,1
+2025-01-04,5,Eluru-Hyderabad,Super Luxury,36.16,48.67,1
+2025-01-04,5,Eluru-Hyderabad,Volvo AC,36.52,53.44,1
+2025-01-04,5,Guntur-Hyderabad,Express,39.96,58.6,1
+2025-01-04,5,Guntur-Hyderabad,Ordinary,39.85,57.22,1
+2025-01-04,5,Guntur-Hyderabad,Semi-Sleeper,37.49,59.0,1
+2025-01-04,5,Guntur-Hyderabad,Sleeper,31.11,40.0,1
+2025-01-04,5,Guntur-Hyderabad,Super Luxury,36.64,48.5,1
+2025-01-04,5,Guntur-Hyderabad,Volvo AC,37.14,53.0,1
+2025-01-04,5,Hyderabad-Tirupati,Express,45.08,58.75,1
+2025-01-04,5,Hyderabad-Tirupati,Ordinary,39.3,58.11,1
+2025-01-04,5,Hyderabad-Tirupati,Semi-Sleeper,40.16,60.71,1
+2025-01-04,5,Hyderabad-Tirupati,Sleeper,29.57,40.0,1
+2025-01-04,5,Hyderabad-Tirupati,Super Luxury,37.82,48.0,1
+2025-01-04,5,Hyderabad-Tirupati,Volvo AC,39.95,53.8,1
+2025-01-04,5,Hyderabad-Vijayawada,Express,39.66,59.8,1
+2025-01-04,5,Hyderabad-Vijayawada,Ordinary,36.42,59.67,1
+2025-01-04,5,Hyderabad-Vijayawada,Semi-Sleeper,44.55,59.62,1
+2025-01-04,5,Hyderabad-Vijayawada,Sleeper,30.8,40.92,1
+2025-01-04,5,Hyderabad-Vijayawada,Super Luxury,35.35,49.73,1
+2025-01-04,5,Hyderabad-Vijayawada,Volvo AC,36.52,51.57,1
+2025-01-04,5,Hyderabad-Visakhapatnam,Express,40.56,58.0,1
+2025-01-04,5,Hyderabad-Visakhapatnam,Ordinary,42.07,58.58,1
+2025-01-04,5,Hyderabad-Visakhapatnam,Semi-Sleeper,41.18,58.0,1
+2025-01-04,5,Hyderabad-Visakhapatnam,Sleeper,54.05,40.4,2
+2025-01-04,5,Kadapa-Hyderabad,Express,43.69,58.29,1
+2025-01-04,5,Kadapa-Hyderabad,Ordinary,39.81,59.89,1
+2025-01-04,5,Kadapa-Hyderabad,Semi-Sleeper,40.42,59.89,1
+2025-01-04,5,Kadapa-Hyderabad,Sleeper,28.83,40.33,1
+2025-01-04,5,Kadapa-Hyderabad,Super Luxury,36.11,49.57,1
+2025-01-04,5,Kadapa-Hyderabad,Volvo AC,37.8,52.27,1
+2025-01-04,5,Kakinada-Vijayawada,Express,36.57,57.55,1
+2025-01-04,5,Kakinada-Vijayawada,Ordinary,43.78,59.0,1
+2025-01-04,5,Kakinada-Vijayawada,Sleeper,51.46,40.4,2
+2025-01-04,5,Kakinada-Vijayawada,Super Luxury,36.57,49.0,1
+2025-01-04,5,Kakinada-Vijayawada,Volvo AC,38.71,53.89,1
+2025-01-04,5,Kurnool-Hyderabad,Express,43.78,59.31,1
+2025-01-04,5,Kurnool-Hyderabad,Ordinary,39.66,60.6,1
+2025-01-04,5,Kurnool-Hyderabad,Semi-Sleeper,37.67,59.33,1
+2025-01-04,5,Kurnool-Hyderabad,Sleeper,30.8,41.82,1
+2025-01-04,5,Kurnool-Hyderabad,Super Luxury,35.5,49.33,1
+2025-01-04,5,Kurnool-Hyderabad,Volvo AC,36.52,53.0,1
+2025-01-04,5,Nellore-Chennai,Express,36.42,59.71,1
+2025-01-04,5,Nellore-Chennai,Ordinary,44.0,58.56,1
+2025-01-04,5,Nellore-Chennai,Semi-Sleeper,36.62,60.0,1
+2025-01-04,5,Nellore-Chennai,Sleeper,19.48,39.64,1
+2025-01-04,5,Nellore-Chennai,Super Luxury,36.57,49.0,1
+2025-01-04,5,Ongole-Hyderabad,Express,36.42,58.6,1
+2025-01-04,5,Ongole-Hyderabad,Ordinary,39.66,60.0,1
+2025-01-04,5,Ongole-Hyderabad,Semi-Sleeper,44.62,59.67,1
+2025-01-04,5,Ongole-Hyderabad,Sleeper,30.8,42.0,1
+2025-01-04,5,Ongole-Hyderabad,Super Luxury,36.57,49.33,1
+2025-01-04,5,Ongole-Hyderabad,Volvo AC,36.52,53.0,1
+2025-01-04,5,Rajahmundry-Hyderabad,Express,36.42,58.38,1
+2025-01-04,5,Rajahmundry-Hyderabad,Ordinary,39.66,58.0,1
+2025-01-04,5,Rajahmundry-Hyderabad,Semi-Sleeper,41.67,59.36,1
+2025-01-04,5,Rajahmundry-Hyderabad,Sleeper,30.8,38.67,1
+2025-01-04,5,Rajahmundry-Hyderabad,Volvo AC,36.67,52.2,1
+2025-01-04,5,Vijayawada-Tirupati,Express,39.66,59.0,1
+2025-01-04,5,Vijayawada-Tirupati,Semi-Sleeper,40.49,60.6,1
+2025-01-04,5,Vijayawada-Tirupati,Sleeper,19.63,40.8,1
+2025-01-04,5,Vijayawada-Tirupati,Volvo AC,38.13,51.86,1
+2025-01-04,5,Vijayawada-Visakhapatnam,Express,36.46,60.0,1
+2025-01-04,5,Vijayawada-Visakhapatnam,Ordinary,37.97,58.56,1
+2025-01-04,5,Vijayawada-Visakhapatnam,Semi-Sleeper,36.67,60.82,1
+2025-01-04,5,Vijayawada-Visakhapatnam,Sleeper,19.72,38.67,1
+2025-01-04,5,Vijayawada-Visakhapatnam,Super Luxury,36.16,50.78,1
+2025-01-04,5,Vijayawada-Visakhapatnam,Volvo AC,36.87,53.86,1
+2025-01-05,6,Anantapur-Bangalore,Ordinary,37.93,59.0,1
+2025-01-05,6,Anantapur-Bangalore,Sleeper,30.8,39.14,1
+2025-01-05,6,Chittoor-Bangalore,Express,31.54,59.36,1
+2025-01-05,6,Chittoor-Bangalore,Semi-Sleeper,35.67,59.0,1
+2025-01-05,6,Chittoor-Bangalore,Sleeper,17.85,37.82,1
+2025-01-05,6,Chittoor-Bangalore,Super Luxury,35.71,49.8,1
+2025-01-05,6,Eluru-Hyderabad,Ordinary,39.81,61.0,1
+2025-01-05,6,Eluru-Hyderabad,Semi-Sleeper,44.55,59.67,1
+2025-01-05,6,Eluru-Hyderabad,Sleeper,28.83,40.0,1
+2025-01-05,6,Eluru-Hyderabad,Super Luxury,36.16,48.67,1
+2025-01-05,6,Eluru-Hyderabad,Volvo AC,36.52,53.44,1
+2025-01-05,6,Guntur-Hyderabad,Express,39.96,58.6,1
+2025-01-05,6,Guntur-Hyderabad,Ordinary,39.85,57.22,1
+2025-01-05,6,Guntur-Hyderabad,Semi-Sleeper,36.93,59.0,1
+2025-01-05,6,Guntur-Hyderabad,Sleeper,30.81,40.0,1
+2025-01-05,6,Guntur-Hyderabad,Super Luxury,36.64,48.5,1
+2025-01-05,6,Guntur-Hyderabad,Volvo AC,37.14,53.0,1
+2025-01-05,6,Hyderabad-Tirupati,Express,45.08,58.75,1
+2025-01-05,6,Hyderabad-Tirupati,Ordinary,39.3,58.11,1
+2025-01-05,6,Hyderabad-Tirupati,Semi-Sleeper,40.16,60.71,1
+2025-01-05,6,Hyderabad-Tirupati,Sleeper,28.8,40.0,1
+2025-01-05,6,Hyderabad-Tirupati,Super Luxury,37.82,48.0,1
+2025-01-05,6,Hyderabad-Tirupati,Volvo AC,39.95,53.8,1
+2025-01-05,6,Hyderabad-Vijayawada,Express,39.41,59.8,1
+2025-01-05,6,Hyderabad-Vijayawada,Ordinary,36.42,59.67,1
+2025-01-05,6,Hyderabad-Vijayawada,Semi-Sleeper,44.55,59.62,1
+2025-01-05,6,Hyderabad-Vijayawada,Sleeper,30.8,40.92,1
+2025-01-05,6,Hyderabad-Vijayawada,Super Luxury,35.35,49.73,1
+2025-01-05,6,Hyderabad-Vijayawada,Volvo AC,36.52,51.57,1
+2025-01-05,6,Hyderabad-Visakhapatnam,Express,40.56,58.0,1
+2025-01-05,6,Hyderabad-Visakhapatnam,Ordinary,42.07,58.58,1
+2025-01-05,6,Hyderabad-Visakhapatnam,Semi-Sleeper,41.18,58.0,1
+2025-01-05,6,Hyderabad-Visakhapatnam,Sleeper,54.05,40.4,2
+2025-01-05,6,Kadapa-Hyderabad,Express,43.78,58.29,1
+2025-01-05,6,Kadapa-Hyderabad,Ordinary,39.81,59.89,1
+2025-01-05,6,Kadapa-Hyderabad,Semi-Sleeper,40.42,59.89,1
+2025-01-05,6,Kadapa-Hyderabad,Sleeper,28.83,40.33,1
+2025-01-05,6,Kadapa-Hyderabad,Super Luxury,36.11,49.57,1
+2025-01-05,6,Kadapa-Hyderabad,Volvo AC,36.52,52.27,1
+2025-01-05,6,Kakinada-Vijayawada,Express,36.57,57.55,1
+2025-01-05,6,Kakinada-Vijayawada,Ordinary,43.78,59.0,1
+2025-01-05,6,Kakinada-Vijayawada,Sleeper,51.46,40.4,2
+2025-01-05,6,Kakinada-Vijayawada,Super Luxury,36.57,49.0,1
+2025-01-05,6,Kakinada-Vijayawada,Volvo AC,38.22,53.89,1
+2025-01-05,6,Kurnool-Hyderabad,Express,43.78,59.31,1
+2025-01-05,6,Kurnool-Hyderabad,Ordinary,39.41,60.6,1
+2025-01-05,6,Kurnool-Hyderabad,Semi-Sleeper,37.19,59.33,1
+2025-01-05,6,Kurnool-Hyderabad,Sleeper,30.8,41.82,1
+2025-01-05,6,Kurnool-Hyderabad,Super Luxury,35.5,49.33,1
+2025-01-05,6,Kurnool-Hyderabad,Volvo AC,36.52,53.0,1
+2025-01-05,6,Nellore-Chennai,Express,36.42,59.71,1
+2025-01-05,6,Nellore-Chennai,Ordinary,44.0,58.56,1
+2025-01-05,6,Nellore-Chennai,Semi-Sleeper,36.62,60.0,1
+2025-01-05,6,Nellore-Chennai,Sleeper,18.34,39.64,1
+2025-01-05,6,Nellore-Chennai,Super Luxury,36.57,49.0,1
+2025-01-05,6,Ongole-Hyderabad,Express,36.42,58.6,1
+2025-01-05,6,Ongole-Hyderabad,Ordinary,39.41,60.0,1
+2025-01-05,6,Ongole-Hyderabad,Semi-Sleeper,44.62,59.67,1
+2025-01-05,6,Ongole-Hyderabad,Sleeper,30.8,42.0,1
+2025-01-05,6,Ongole-Hyderabad,Super Luxury,36.57,49.33,1
+2025-01-05,6,Ongole-Hyderabad,Volvo AC,36.52,53.0,1
+2025-01-05,6,Rajahmundry-Hyderabad,Express,36.42,58.38,1
+2025-01-05,6,Rajahmundry-Hyderabad,Ordinary,39.41,58.0,1
+2025-01-05,6,Rajahmundry-Hyderabad,Semi-Sleeper,41.67,59.36,1
+2025-01-05,6,Rajahmundry-Hyderabad,Sleeper,30.8,38.67,1
+2025-01-05,6,Rajahmundry-Hyderabad,Volvo AC,36.67,52.2,1
+2025-01-05,6,Vijayawada-Tirupati,Express,39.41,59.0,1
+2025-01-05,6,Vijayawada-Tirupati,Semi-Sleeper,40.49,60.6,1
+2025-01-05,6,Vijayawada-Tirupati,Sleeper,18.49,40.8,1
+2025-01-05,6,Vijayawada-Tirupati,Volvo AC,38.13,51.86,1
+2025-01-05,6,Vijayawada-Visakhapatnam,Express,36.46,60.0,1
+2025-01-05,6,Vijayawada-Visakhapatnam,Ordinary,37.97,58.56,1
+2025-01-05,6,Vijayawada-Visakhapatnam,Semi-Sleeper,36.67,60.82,1
+2025-01-05,6,Vijayawada-Visakhapatnam,Sleeper,18.57,38.67,1
+2025-01-05,6,Vijayawada-Visakhapatnam,Super Luxury,36.16,50.78,1
+2025-01-05,6,Vijayawada-Visakhapatnam,Volvo AC,36.87,53.86,1
+2025-01-06,7,Anantapur-Bangalore,Ordinary,37.6,59.0,1
+2025-01-06,7,Anantapur-Bangalore,Sleeper,30.48,39.14,1
+2025-01-06,7,Chittoor-Bangalore,Express,31.22,59.36,1
+2025-01-06,7,Chittoor-Bangalore,Semi-Sleeper,35.34,59.0,1
+2025-01-06,7,Chittoor-Bangalore,Sleeper,17.53,37.82,1
+2025-01-06,7,Chittoor-Bangalore,Super Luxury,35.38,49.8,1
+2025-01-06,7,Eluru-Hyderabad,Ordinary,39.48,61.0,1
+2025-01-06,7,Eluru-Hyderabad,Semi-Sleeper,44.22,59.67,1
+2025-01-06,7,Eluru-Hyderabad,Sleeper,28.5,40.0,1
+2025-01-06,7,Eluru-Hyderabad,Super Luxury,35.83,48.67,1
+2025-01-06,7,Eluru-Hyderabad,Volvo AC,36.2,53.44,1
+2025-01-06,7,Guntur-Hyderabad,Express,39.64,58.6,1
+2025-01-06,7,Guntur-Hyderabad,Ordinary,39.53,57.22,1
+2025-01-06,7,Guntur-Hyderabad,Semi-Sleeper,36.61,59.0,1
+2025-01-06,7,Guntur-Hyderabad,Sleeper,30.79,40.0,1
+2025-01-06,7,Guntur-Hyderabad,Super Luxury,36.32,48.5,1
+2025-01-06,7,Guntur-Hyderabad,Volvo AC,36.81,53.0,1
+2025-01-06,7,Hyderabad-Tirupati,Express,44.54,58.75,1
+2025-01-06,7,Hyderabad-Tirupati,Ordinary,38.77,58.11,1
+2025-01-06,7,Hyderabad-Tirupati,Semi-Sleeper,39.84,60.71,1
+2025-01-06,7,Hyderabad-Tirupati,Sleeper,29.24,40.0,1
+2025-01-06,7,Hyderabad-Tirupati,Super Luxury,37.49,48.0,1
+2025-01-06,7,Hyderabad-Tirupati,Volvo AC,39.63,53.8,1
+2025-01-06,7,Hyderabad-Vijayawada,Express,39.09,59.8,1
+2025-01-06,7,Hyderabad-Vijayawada,Ordinary,36.09,59.67,1
+2025-01-06,7,Hyderabad-Vijayawada,Semi-Sleeper,44.22,59.62,1
+2025-01-06,7,Hyderabad-Vijayawada,Sleeper,30.48,40.92,1
+2025-01-06,7,Hyderabad-Vijayawada,Super Luxury,35.02,49.73,1
+2025-01-06,7,Hyderabad-Vijayawada,Volvo AC,36.2,51.57,1
+2025-01-06,7,Hyderabad-Visakhapatnam,Express,40.24,58.0,1
+2025-01-06,7,Hyderabad-Visakhapatnam,Ordinary,41.75,58.58,1
+2025-01-06,7,Hyderabad-Visakhapatnam,Semi-Sleeper,40.86,58.0,1
+2025-01-06,7,Hyderabad-Visakhapatnam,Sleeper,53.92,40.4,2
+2025-01-06,7,Kadapa-Hyderabad,Express,43.45,58.29,1
+2025-01-06,7,Kadapa-Hyderabad,Ordinary,39.48,59.89,1
+2025-01-06,7,Kadapa-Hyderabad,Semi-Sleeper,40.1,59.89,1
+2025-01-06,7,Kadapa-Hyderabad,Sleeper,28.5,40.33,1
+2025-01-06,7,Kadapa-Hyderabad,Super Luxury,35.79,49.57,1
+2025-01-06,7,Kadapa-Hyderabad,Volvo AC,36.2,52.27,1
+2025-01-06,7,Kakinada-Vijayawada,Express,36.25,57.55,1
+2025-01-06,7,Kakinada-Vijayawada,Ordinary,43.45,59.0,1
+2025-01-06,7,Kakinada-Vijayawada,Sleeper,51.34,40.4,2
+2025-01-06,7,Kakinada-Vijayawada,Super Luxury,36.25,49.0,1
+2025-01-06,7,Kakinada-Vijayawada,Volvo AC,37.9,53.89,1
+2025-01-06,7,Kurnool-Hyderabad,Express,43.45,59.31,1
+2025-01-06,7,Kurnool-Hyderabad,Ordinary,39.09,60.6,1
+2025-01-06,7,Kurnool-Hyderabad,Semi-Sleeper,36.86,59.33,1
+2025-01-06,7,Kurnool-Hyderabad,Sleeper,30.48,41.82,1
+2025-01-06,7,Kurnool-Hyderabad,Super Luxury,35.17,49.33,1
+2025-01-06,7,Kurnool-Hyderabad,Volvo AC,36.2,53.0,1
+2025-01-06,7,Nellore-Chennai,Express,36.09,59.71,1
+2025-01-06,7,Nellore-Chennai,Ordinary,43.68,58.56,1
+2025-01-06,7,Nellore-Chennai,Semi-Sleeper,36.3,60.0,1
+2025-01-06,7,Nellore-Chennai,Sleeper,19.16,39.64,1
+2025-01-06,7,Nellore-Chennai,Super Luxury,36.25,49.0,1
+2025-01-06,7,Ongole-Hyderabad,Express,36.09,58.6,1
+2025-01-06,7,Ongole-Hyderabad,Ordinary,39.09,60.0,1
+2025-01-06,7,Ongole-Hyderabad,Semi-Sleeper,44.29,59.67,1
+2025-01-06,7,Ongole-Hyderabad,Sleeper,30.48,42.0,1
+2025-01-06,7,Ongole-Hyderabad,Super Luxury,36.25,49.33,1
+2025-01-06,7,Ongole-Hyderabad,Volvo AC,36.2,53.0,1
+2025-01-06,7,Rajahmundry-Hyderabad,Express,36.09,58.38,1
+2025-01-06,7,Rajahmundry-Hyderabad,Ordinary,39.09,58.0,1
+2025-01-06,7,Rajahmundry-Hyderabad,Semi-Sleeper,41.34,59.36,1
+2025-01-06,7,Rajahmundry-Hyderabad,Sleeper,30.48,38.67,1
+2025-01-06,7,Rajahmundry-Hyderabad,Volvo AC,36.35,52.2,1
+2025-01-06,7,Vijayawada-Tirupati,Express,39.09,59.0,1
+2025-01-06,7,Vijayawada-Tirupati,Semi-Sleeper,40.17,60.6,1
+2025-01-06,7,Vijayawada-Tirupati,Sleeper,18.16,40.8,1
+2025-01-06,7,Vijayawada-Tirupati,Volvo AC,37.31,51.86,1
+2025-01-06,7,Vijayawada-Visakhapatnam,Express,36.14,60.0,1
+2025-01-06,7,Vijayawada-Visakhapatnam,Ordinary,37.65,58.56,1
+2025-01-06,7,Vijayawada-Visakhapatnam,Semi-Sleeper,36.34,60.82,1
+2025-01-06,7,Vijayawada-Visakhapatnam,Sleeper,18.25,38.67,1
+2025-01-06,7,Vijayawada-Visakhapatnam,Super Luxury,35.83,50.78,1
+2025-01-06,7,Vijayawada-Visakhapatnam,Volvo AC,36.55,53.86,1

@@ -1,0 +1,127 @@
+date,forecast_day,route,bus_type,predicted_passengers,average_bus_capacity,estimated_buses_required
+2024-11-29,1,Vijayawada-Visakhapatnam,Volvo AC,36.8,53.86,1
+2024-11-30,2,Vijayawada-Visakhapatnam,Volvo AC,36.25,53.86,1
+2024-12-01,3,Vijayawada-Visakhapatnam,Volvo AC,37.2,53.86,1
+2024-12-02,1,Guntur-Hyderabad,Sleeper,31.65,40.0,1
+2024-12-02,4,Vijayawada-Visakhapatnam,Volvo AC,36.57,53.86,1
+2024-12-03,2,Guntur-Hyderabad,Sleeper,31.65,40.0,1
+2024-12-03,5,Vijayawada-Visakhapatnam,Volvo AC,36.57,53.86,1
+2024-12-04,3,Guntur-Hyderabad,Sleeper,31.65,40.0,1
+2024-12-04,6,Vijayawada-Visakhapatnam,Volvo AC,36.57,53.86,1
+2024-12-05,4,Guntur-Hyderabad,Sleeper,31.65,40.0,1
+2024-12-05,1,Kadapa-Hyderabad,Ordinary,40.97,59.89,1
+2024-12-05,7,Vijayawada-Visakhapatnam,Volvo AC,36.57,53.86,1
+2024-12-06,5,Guntur-Hyderabad,Sleeper,31.65,40.0,1
+2024-12-06,2,Kadapa-Hyderabad,Ordinary,40.97,59.89,1
+2024-12-07,6,Guntur-Hyderabad,Sleeper,31.65,40.0,1
+2024-12-07,3,Kadapa-Hyderabad,Ordinary,40.28,59.89,1
+2024-12-08,7,Guntur-Hyderabad,Sleeper,31.65,40.0,1
+2024-12-08,4,Kadapa-Hyderabad,Ordinary,40.5,59.89,1
+2024-12-09,5,Kadapa-Hyderabad,Ordinary,40.5,59.89,1
+2024-12-09,1,Vijayawada-Tirupati,Volvo AC,38.78,51.86,1
+2024-12-10,6,Kadapa-Hyderabad,Ordinary,40.5,59.89,1
+2024-12-10,2,Vijayawada-Tirupati,Volvo AC,37.22,51.86,1
+2024-12-11,7,Kadapa-Hyderabad,Ordinary,40.97,59.89,1
+2024-12-11,1,Nellore-Chennai,Express,40.08,59.71,1
+2024-12-11,3,Vijayawada-Tirupati,Volvo AC,38.78,51.86,1
+2024-12-12,2,Nellore-Chennai,Express,39.31,59.71,1
+2024-12-12,4,Vijayawada-Tirupati,Volvo AC,38.78,51.86,1
+2024-12-13,3,Nellore-Chennai,Express,37.76,59.71,1
+2024-12-13,5,Vijayawada-Tirupati,Volvo AC,38.78,51.86,1
+2024-12-14,4,Nellore-Chennai,Express,39.31,59.71,1
+2024-12-14,6,Vijayawada-Tirupati,Volvo AC,38.78,51.86,1
+2024-12-15,1,Guntur-Hyderabad,Super Luxury,38.24,48.5,1
+2024-12-15,1,Hyderabad-Tirupati,Express,45.44,58.75,1
+2024-12-15,5,Nellore-Chennai,Express,37.56,59.71,1
+2024-12-15,7,Vijayawada-Tirupati,Volvo AC,38.78,51.86,1
+2024-12-16,2,Guntur-Hyderabad,Super Luxury,35.93,48.5,1
+2024-12-16,2,Hyderabad-Tirupati,Express,44.84,58.75,1
+2024-12-16,6,Nellore-Chennai,Express,37.56,59.71,1
+2024-12-17,3,Guntur-Hyderabad,Super Luxury,37.47,48.5,1
+2024-12-17,3,Hyderabad-Tirupati,Express,43.09,58.75,1
+2024-12-17,7,Nellore-Chennai,Express,37.56,59.71,1
+2024-12-18,1,Eluru-Hyderabad,Semi-Sleeper,45.31,59.67,1
+2024-12-18,4,Guntur-Hyderabad,Super Luxury,37.47,48.5,1
+2024-12-18,4,Hyderabad-Tirupati,Express,44.64,58.75,1
+2024-12-18,1,Ongole-Hyderabad,Sleeper,31.65,42.0,1
+2024-12-19,2,Eluru-Hyderabad,Semi-Sleeper,45.31,59.67,1
+2024-12-19,5,Guntur-Hyderabad,Super Luxury,37.47,48.5,1
+2024-12-19,5,Hyderabad-Tirupati,Express,44.64,58.75,1
+2024-12-19,2,Ongole-Hyderabad,Sleeper,31.65,42.0,1
+2024-12-20,3,Eluru-Hyderabad,Semi-Sleeper,45.31,59.67,1
+2024-12-20,6,Guntur-Hyderabad,Super Luxury,37.47,48.5,1
+2024-12-20,6,Hyderabad-Tirupati,Express,44.64,58.75,1
+2024-12-20,3,Ongole-Hyderabad,Sleeper,31.65,42.0,1
+2024-12-21,4,Eluru-Hyderabad,Semi-Sleeper,45.31,59.67,1
+2024-12-21,7,Guntur-Hyderabad,Super Luxury,37.47,48.5,1
+2024-12-21,7,Hyderabad-Tirupati,Express,44.64,58.75,1
+2024-12-21,4,Ongole-Hyderabad,Sleeper,31.65,42.0,1
+2024-12-21,1,Rajahmundry-Hyderabad,Sleeper,32.41,38.67,1
+2024-12-22,5,Eluru-Hyderabad,Semi-Sleeper,45.31,59.67,1
+2024-12-22,5,Ongole-Hyderabad,Sleeper,31.65,42.0,1
+2024-12-22,2,Rajahmundry-Hyderabad,Sleeper,31.65,38.67,1
+2024-12-22,1,Vijayawada-Visakhapatnam,Ordinary,36.66,58.56,1
+2024-12-23,6,Eluru-Hyderabad,Semi-Sleeper,45.31,59.67,1
+2024-12-23,6,Ongole-Hyderabad,Sleeper,31.33,42.0,1
+2024-12-23,3,Rajahmundry-Hyderabad,Sleeper,31.33,38.67,1
+2024-12-23,2,Vijayawada-Visakhapatnam,Ordinary,37.35,58.56,1
+2024-12-24,7,Eluru-Hyderabad,Semi-Sleeper,45.31,59.67,1
+2024-12-24,7,Ongole-Hyderabad,Sleeper,31.33,42.0,1
+2024-12-24,4,Rajahmundry-Hyderabad,Sleeper,31.33,38.67,1
+2024-12-24,3,Vijayawada-Visakhapatnam,Ordinary,37.35,58.56,1
+2024-12-25,1,Hyderabad-Visakhapatnam,Ordinary,41.31,58.58,1
+2024-12-25,5,Rajahmundry-Hyderabad,Sleeper,31.33,38.67,1
+2024-12-25,4,Vijayawada-Visakhapatnam,Ordinary,37.35,58.56,1
+2024-12-26,2,Hyderabad-Visakhapatnam,Ordinary,42.48,58.58,1
+2024-12-26,1,Kakinada-Vijayawada,Ordinary,42.05,59.0,1
+2024-12-26,6,Rajahmundry-Hyderabad,Sleeper,31.33,38.67,1
+2024-12-26,5,Vijayawada-Visakhapatnam,Ordinary,37.35,58.56,1
+2024-12-27,3,Hyderabad-Visakhapatnam,Ordinary,42.48,58.58,1
+2024-12-27,2,Kakinada-Vijayawada,Ordinary,43.25,59.0,1
+2024-12-27,7,Rajahmundry-Hyderabad,Sleeper,31.33,38.67,1
+2024-12-27,6,Vijayawada-Visakhapatnam,Ordinary,37.35,58.56,1
+2024-12-28,1,Anantapur-Bangalore,Ordinary,39.52,59.0,1
+2024-12-28,4,Hyderabad-Visakhapatnam,Ordinary,42.0,58.58,1
+2024-12-28,1,Kadapa-Hyderabad,Super Luxury,37.7,49.57,1
+2024-12-28,3,Kakinada-Vijayawada,Ordinary,43.25,59.0,1
+2024-12-28,7,Vijayawada-Visakhapatnam,Ordinary,37.35,58.56,1
+2024-12-29,2,Anantapur-Bangalore,Ordinary,39.73,59.0,1
+2024-12-29,5,Hyderabad-Visakhapatnam,Ordinary,42.0,58.58,1
+2024-12-29,2,Kadapa-Hyderabad,Super Luxury,37.42,49.57,1
+2024-12-29,4,Kakinada-Vijayawada,Ordinary,44.86,59.0,1
+2024-12-29,1,Nellore-Chennai,Ordinary,41.85,58.56,1
+2024-12-30,3,Anantapur-Bangalore,Ordinary,39.73,59.0,1
+2024-12-30,6,Hyderabad-Visakhapatnam,Ordinary,41.73,58.58,1
+2024-12-30,1,Kadapa-Hyderabad,Express,43.82,58.29,1
+2024-12-30,3,Kadapa-Hyderabad,Super Luxury,36.11,49.57,1
+2024-12-30,5,Kakinada-Vijayawada,Ordinary,43.0,59.0,1
+2024-12-30,2,Nellore-Chennai,Ordinary,42.64,58.56,1
+2024-12-31,4,Anantapur-Bangalore,Ordinary,37.92,59.0,1
+2024-12-31,1,Hyderabad-Vijayawada,Volvo AC,37.9,51.57,1
+2024-12-31,7,Hyderabad-Visakhapatnam,Ordinary,41.28,58.58,1
+2024-12-31,2,Kadapa-Hyderabad,Express,43.55,58.29,1
+2024-12-31,4,Kadapa-Hyderabad,Super Luxury,36.11,49.57,1
+2024-12-31,6,Kakinada-Vijayawada,Ordinary,43.0,59.0,1
+2024-12-31,3,Nellore-Chennai,Ordinary,42.22,58.56,1
+2025-01-01,5,Anantapur-Bangalore,Ordinary,38.24,59.0,1
+2025-01-01,2,Hyderabad-Vijayawada,Volvo AC,36.76,51.57,1
+2025-01-01,3,Kadapa-Hyderabad,Express,42.5,58.29,1
+2025-01-01,5,Kadapa-Hyderabad,Super Luxury,36.42,49.57,1
+2025-01-01,7,Kakinada-Vijayawada,Ordinary,44.09,59.0,1
+2025-01-01,4,Nellore-Chennai,Ordinary,44.31,58.56,1
+2025-01-02,6,Anantapur-Bangalore,Ordinary,37.6,59.0,1
+2025-01-02,3,Hyderabad-Vijayawada,Volvo AC,36.68,51.57,1
+2025-01-02,4,Kadapa-Hyderabad,Express,42.5,58.29,1
+2025-01-02,6,Kadapa-Hyderabad,Super Luxury,35.79,49.57,1
+2025-01-02,5,Nellore-Chennai,Ordinary,43.68,58.56,1
+2025-01-03,7,Anantapur-Bangalore,Ordinary,37.6,59.0,1
+2025-01-03,4,Hyderabad-Vijayawada,Volvo AC,36.2,51.57,1
+2025-01-03,5,Kadapa-Hyderabad,Express,43.36,58.29,1
+2025-01-03,7,Kadapa-Hyderabad,Super Luxury,35.79,49.57,1
+2025-01-03,6,Nellore-Chennai,Ordinary,43.68,58.56,1
+2025-01-04,5,Hyderabad-Vijayawada,Volvo AC,36.52,51.57,1
+2025-01-04,6,Kadapa-Hyderabad,Express,43.69,58.29,1
+2025-01-04,7,Nellore-Chennai,Ordinary,44.0,58.56,1
+2025-01-05,6,Hyderabad-Vijayawada,Volvo AC,36.52,51.57,1
+2025-01-05,7,Kadapa-Hyderabad,Express,43.78,58.29,1
+2025-01-06,7,Hyderabad-Vijayawada,Volvo AC,36.2,51.57,1

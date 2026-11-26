@@ -1,0 +1,77 @@
+route,bus_type,average_daily_demand,total_seven_day_demand,total_bus_days
+Anantapur-Bangalore,Ordinary,37.83142857142857,264.82,7
+Anantapur-Bangalore,Sleeper,30.664285714285715,214.65,7
+Chittoor-Bangalore,Express,31.447142857142858,220.13,7
+Chittoor-Bangalore,Semi-Sleeper,35.57142857142857,249.0,7
+Chittoor-Bangalore,Sleeper,18.025714285714287,126.18,7
+Chittoor-Bangalore,Super Luxury,35.611428571428576,249.28000000000003,7
+Eluru-Hyderabad,Ordinary,39.66285714285714,277.64,7
+Eluru-Hyderabad,Semi-Sleeper,44.339999999999996,310.38,7
+Eluru-Hyderabad,Sleeper,28.731428571428573,201.12,7
+Eluru-Hyderabad,Super Luxury,36.06142857142857,252.42999999999998,7
+Eluru-Hyderabad,Volvo AC,36.42714285714286,254.99,7
+Guntur-Hyderabad,Express,39.82,278.74,7
+Guntur-Hyderabad,Ordinary,39.708571428571425,277.96,7
+Guntur-Hyderabad,Semi-Sleeper,37.30857142857143,261.16,7
+Guntur-Hyderabad,Sleeper,30.889999999999997,216.23,7
+Guntur-Hyderabad,Super Luxury,36.54714285714286,255.83,7
+Guntur-Hyderabad,Volvo AC,37.041428571428575,259.29,7
+Hyderabad-Tirupati,Express,44.79714285714285,313.58,7
+Hyderabad-Tirupati,Ordinary,39.26571428571429,274.86,7
+Hyderabad-Tirupati,Semi-Sleeper,40.01714285714286,280.12,7
+Hyderabad-Tirupati,Sleeper,29.252857142857142,204.76999999999998,7
+Hyderabad-Tirupati,Super Luxury,37.721428571428575,264.05,7
+Hyderabad-Tirupati,Volvo AC,39.80857142857143,278.66,7
+Hyderabad-Vijayawada,Express,39.44285714285714,276.1,7
+Hyderabad-Vijayawada,Ordinary,36.32142857142857,254.25,7
+Hyderabad-Vijayawada,Semi-Sleeper,44.339999999999996,310.38,7
+Hyderabad-Vijayawada,Sleeper,30.664285714285715,214.65,7
+Hyderabad-Vijayawada,Super Luxury,35.251428571428576,246.76000000000002,7
+Hyderabad-Vijayawada,Volvo AC,36.682857142857145,256.78000000000003,7
+Hyderabad-Visakhapatnam,Express,40.41857142857143,282.93,7
+Hyderabad-Visakhapatnam,Ordinary,41.864285714285714,293.05,7
+Hyderabad-Visakhapatnam,Semi-Sleeper,41.037142857142854,287.26,7
+Hyderabad-Visakhapatnam,Sleeper,53.87714285714286,377.14,14
+Kadapa-Hyderabad,Express,43.26142857142857,302.83,7
+Kadapa-Hyderabad,Ordinary,39.66285714285714,277.64,7
+Kadapa-Hyderabad,Semi-Sleeper,40.278571428571425,281.95,7
+Kadapa-Hyderabad,Sleeper,28.731428571428573,201.12,7
+Kadapa-Hyderabad,Super Luxury,36.01714285714286,252.12,7
+Kadapa-Hyderabad,Volvo AC,37.43714285714286,262.06,7
+Kakinada-Vijayawada,Express,36.47714285714286,255.34,7
+Kakinada-Vijayawada,Ordinary,43.57142857142857,305.0,7
+Kakinada-Vijayawada,Sleeper,51.44857142857143,360.14,14
+Kakinada-Vijayawada,Super Luxury,36.47714285714286,255.34,7
+Kakinada-Vijayawada,Volvo AC,38.47714285714286,269.34000000000003,7
+Kurnool-Hyderabad,Express,43.57142857142857,305.0,7
+Kurnool-Hyderabad,Ordinary,39.44285714285714,276.1,7
+Kurnool-Hyderabad,Semi-Sleeper,37.79571428571428,264.57,7
+Kurnool-Hyderabad,Sleeper,30.664285714285715,214.65,7
+Kurnool-Hyderabad,Super Luxury,35.401428571428575,247.81,7
+Kurnool-Hyderabad,Volvo AC,36.42714285714286,254.99,7
+Nellore-Chennai,Express,36.32142857142857,254.25,7
+Nellore-Chennai,Ordinary,43.652857142857144,305.57,7
+Nellore-Chennai,Semi-Sleeper,36.68857142857143,256.82,7
+Nellore-Chennai,Sleeper,20.377142857142854,142.64,7
+Nellore-Chennai,Super Luxury,36.47714285714286,255.34,7
+Ongole-Hyderabad,Express,36.32142857142857,254.25,7
+Ongole-Hyderabad,Ordinary,39.44285714285714,276.1,7
+Ongole-Hyderabad,Semi-Sleeper,44.410000000000004,310.87,7
+Ongole-Hyderabad,Sleeper,30.664285714285715,214.65,7
+Ongole-Hyderabad,Super Luxury,36.47714285714286,255.34,7
+Ongole-Hyderabad,Volvo AC,36.42714285714286,254.99,7
+Rajahmundry-Hyderabad,Express,36.32142857142857,254.25,7
+Rajahmundry-Hyderabad,Ordinary,39.44285714285714,276.1,7
+Rajahmundry-Hyderabad,Semi-Sleeper,41.56285714285714,290.94,7
+Rajahmundry-Hyderabad,Sleeper,30.664285714285715,214.65,7
+Rajahmundry-Hyderabad,Volvo AC,36.57714285714286,256.04,7
+Vijayawada-Tirupati,Express,39.44285714285714,276.1,7
+Vijayawada-Tirupati,Semi-Sleeper,40.348571428571425,282.44,7
+Vijayawada-Tirupati,Sleeper,19.884285714285713,139.19,7
+Vijayawada-Tirupati,Volvo AC,38.39714285714286,268.78000000000003,7
+Vijayawada-Visakhapatnam,Express,36.36714285714286,254.57,7
+Vijayawada-Visakhapatnam,Ordinary,37.87714285714286,265.14,7
+Vijayawada-Visakhapatnam,Semi-Sleeper,36.57285714285714,256.01,7
+Vijayawada-Visakhapatnam,Sleeper,19.947142857142858,139.63,7
+Vijayawada-Visakhapatnam,Super Luxury,36.06142857142857,252.42999999999998,7
+Vijayawada-Visakhapatnam,Volvo AC,36.777142857142856,257.44,7

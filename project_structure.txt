@@ -1,0 +1,40 @@
+﻿Transport-Demand-Forecasting
+├── dashboard
+│   └── app.py
+├── data
+│   ├── processed
+│   │   ├── cleaned_transport_data.csv
+│   │   ├── feature_engineered_data.csv
+│   │   ├── historical_features_data.csv
+│   │   ├── test_data.csv
+│   │   └── train_data.csv
+│   └── raw
+│       └── transport_data.csv
+├── models
+│   ├── improved_xgboost_model.pkl
+│   └── xgboost_demand_model.pkl
+├── notebooks
+├── outputs
+│   ├── actual_vs_predicted.png
+│   ├── bus_type_demand.png
+│   ├── model_comparison.csv
+│   ├── predictions.csv
+│   ├── route_demand.png
+│   └── vehicle_deployment_recommendations.csv
+├── src
+│   ├── baseline_model.py
+│   ├── data_cleaning.py
+│   ├── data_inspection.py
+│   ├── eda.py
+│   ├── feature_engineering.py
+│   ├── historical_features.py
+│   ├── model_comparison.py
+│   ├── prepare_model_data.py
+│   ├── train_improved_xgboost.py
+│   ├── train_xgboost.py
+│   ├── vehicle_deployment.py
+│   └── visualize_predictions.py
+├── .gitignore
+├── desktop.ini
+└── README.md
+
